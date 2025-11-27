@@ -1,0 +1,36 @@
+.hero-section {
+  padding-top: 100px;
+  min-height: 80vh;
+  background: linear-gradient(180deg, #ffffff, #e0f2fe);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+}
+
+.hero-content {
+  width: 50%;
+}
+
+.hero-title {
+  font-size: 45px;
+  font-weight: bold;
+  color: #111;
+}
+
+.hero-text {
+  font-size: 20px;
+  color: #555;
+  margin: 15px 0;
+}
+
+.hero-illustration {
+  width: 50%;
+}
+
+.illustration-box {
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+}
